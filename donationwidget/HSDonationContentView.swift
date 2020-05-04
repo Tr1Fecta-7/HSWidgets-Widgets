@@ -28,7 +28,7 @@ struct WebView : UIViewRepresentable {
 struct HSDonationContentView: View {
     var body: some View {
         VStack {
-            WebView(request: URLRequest(url: URL(string: "https://paypal.me/Dghost")!))
+            WebView(request: URLRequest(url: URL(string: "https://paypal.me/PUT USERNAME HERE")!))
         }
       
     }
