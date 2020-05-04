@@ -41,8 +41,9 @@
 }
 
 + (CGRect)circleBounds {
-	return CGRectMake(0,0,65,65);
+	return CGRectMake(0,0,60,60);
 }
+
 
 - (void)setGlyphLayer:(CALayer *)layer {
 	%orig;
