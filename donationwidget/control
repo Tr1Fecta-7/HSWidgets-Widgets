@@ -1,0 +1,9 @@
+Package: com.tr1fecta.donationwidget
+Name: DonationWidget
+Depends: mobilesubstrate, com.dgh0st.hswidgets
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome HSWidgets extension!
+Maintainer: Tr1Fecta
+Author: Tr1Fecta
+Section: Addons (HSWidgets)
